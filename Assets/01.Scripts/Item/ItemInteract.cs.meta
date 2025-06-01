@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:STAC_GAME/Assets/02_Scripts/Stat/Item/ItemInteract.cs.meta
+guid: ddb9cd5b5c3f9a74ebf445def1a1563d
+========
+guid: 277795fd68204e34384ab6b2fd834546
+>>>>>>>> f1c6e4da72508cdbc6217407b4be3cc0dbfb70e7:STAC_GAME/Assets/02_Scripts/Interact/LootInventory.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
